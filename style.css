@@ -1,0 +1,94 @@
+body{    margin: 0;
+    font-family: "Jaro", sans-serif;
+ }
+.hero{    background-color: #b52fcf;
+    color: #000000;    height: 100vh;
+    display: flex;   
+}.korobka{
+    align-items: center;    justify-content: center;
+    display: flex;    height: 100vh;
+    margin: 0 15px;    padding: 0 100px;
+    width: 50%;}
+h1{    line-height: 120px;
+    margin: 50px 0;    font-size: 9rem;
+}h2{
+    font-size: 2rem;    margin: 0;
+    font-weight: 400;}
+h3{    font-size: 2rem;
+    margin: 0;    font-weight: 400;
+    margin: 25 0px;
+}
+.photo{   width: 100%; 
+    border: 10px solid rgb(5, 0, 0);    rotate: -5deg;
+   }
+.prizrak{    z-index: 5;
+   background-color: rgb(251, 248, 248);    box-shadow: 0 0 300px 100px white;
+}.textcenter{ 
+    background-color:#3ff2ff ; text-align: center; 
+} h1{ 
+    margin: 0; } 
+
+.kor{    align-items: center;
+    justify-content: right;   
+    padding: 10%;    width: 35%;
+    margin: 0 450px;
+    
+}
+.pho1{    width: 100%;
+    border: 10px solid rgb(255, 255, 255);     
+    width: 100%;
+    height: 1000px;
+}
+.pho{    width: 100%;
+    border: 10px solid rgb(255, 255, 255);     
+    width: 100%;
+    height: 1000px;
+}
+h4{
+   
+    align-items: center;
+    justify-content: center; 
+
+}
+h7{
+    line-height: 120px;
+    margin: 50px 0;    font-size: 7rem;
+}
+h5 {
+    
+    margin: 50px 0;    font-size: 5rem;
+}
+.emp2{
+    background-color: #3ff2ff;
+    color: #000000;    height: 75vh;
+    text-align: center;
+    font-size: 3rem;
+}
+.q{
+    background-color: #c85cfd;
+    color: #000000;  
+    height: 150vh;
+    text-align: center;
+    
+}
+.q1{
+    background-color: #c85cfd;
+    color: #000000;  
+    height: 150vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+    
+}
+h8{
+    line-height: 120px;
+    margin: 50px 0;    font-size: 7rem;
+
+}
+.q2{
+    width: 50%;
+}
+h9{
+    font-size: 3rem;
+}
+
